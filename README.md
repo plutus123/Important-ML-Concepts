@@ -1,3 +1,3 @@
 # Important-ML-Concepts
 
-This repo contains all the important codes of ML I have studied so far.
+This repo contains all the important codes of ML that I have studied so far.
